@@ -1,1 +1,5 @@
+def print_hello():
+    print("Hello World from function")
 print("Hello World")
+print_hello()
+print_hello()
